@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987114083013",
+    "firebase_url": "https://poomovilesuteq-262420.firebaseio.com",
+    "project_id": "poomovilesuteq-262420",
+    "storage_bucket": "poomovilesuteq-262420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987114083013:android:c80fc56a7c32fb517456ac",
+        "android_client_info": {
+          "package_name": "com.example.geofencingexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987114083013-8esihfmi1oepimivcatac9dfjg8jq7o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geofencingexample",
+            "certificate_hash": "8bcc7505fe145d982e77fb11d013f8596218e060"
+          }
+        },
+        {
+          "client_id": "987114083013-idmshmagfd9fk2l3e8jqar9km53ahp45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoE6xu_kTcBLDrdf7v3IRV23QY6CkMO7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987114083013-idmshmagfd9fk2l3e8jqar9km53ahp45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
